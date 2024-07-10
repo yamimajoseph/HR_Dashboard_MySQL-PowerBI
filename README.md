@@ -1,4 +1,4 @@
-### HR_Dashboard_MySQL-PowerBI
+# HR_Dashboard_MySQL-PowerBI
 
 ![2024-07-10](https://github.com/yamimajoseph/HR_Dashboard_MySQL-PowerBI/assets/139482436/a883a105-2f75-4578-b912-5b6f99dbbd6a)
 
@@ -26,26 +26,26 @@ Data Visualization - PowerBI
 
 ## Summary of Findings
 
-# Company Demographics
+### Company Demographics
 
-The company has a diverse workforce, though there are more male employees than female.
-Ethnicity-wise, Caucasian employees make up the majority, followed by a smaller percentage of Native Hawaiian and American Indian employees.
-Age distribution is spread across four groups (18-30, 31-40, 41-50, and 51-60) with the most employees falling between 31-40 years old, followed by 41-50. The least represented age group is 51-60.
-The majority of employees work at the headquarters compared to those working remotely.
-On average, terminated employees had been with the company for around 8 years.
+•	The company has a diverse workforce, though there are more male employees than female.
+•	Ethnicity-wise, Caucasian employees make up the majority, followed by a smaller percentage of Native Hawaiian and American Indian employees.
+•	Age distribution is spread across four groups (18-30, 31-40, 41-50, and 51-60) with the most employees falling between 31-40 years old, followed by 41-50. The least represented age group is 51-60.
+•	The majority of employees work at the headquarters compared to those working remotely.
+•	On average, terminated employees had been with the company for around 8 years.
 
-# Department Analysis
+### Department Analysis
 
-Gender distribution is relatively balanced across departments, but there's a slight tilt towards a male majority.
-The Marketing department experiences the highest turnover, followed by Training. Conversely, the Research and Development, Support, and Legal departments see the least employee turnover.
+•	Gender distribution is relatively balanced across departments, but there's a slight tilt towards a male majority.
+•	The Marketing department experiences the highest turnover, followed by Training. Conversely, the Research and Development, Support, and Legal departments see the least employee turnover.
 
-# Location and Tenure
+### Location and Tenure
 
-A significant number of employees come from Ohio.
-The company has seen a positive net change in employee numbers over the years.
-The average tenure across departments is 8 years, with Legal and Auditing having the longest-serving employees and Services, Sales, and Marketing having the shortest.
+•	A significant number of employees come from Ohio.
+•	The company has seen a positive net change in employee numbers over the years.
+•	The average tenure across departments is 8 years, with Legal and Auditing having the longest-serving employees and Services, Sales, and Marketing having the shortest.
 
 ## Limitations
 
-A total of 967 records were excluded due to negative age values. Only individuals aged 18 and above were included in the analysis.
-Additionally, 1599 records with future termination dates were excluded. The analysis focused solely on employees with termination dates on or before today's date.
+•	A total of 967 records were excluded due to negative age values. Only individuals aged 18 and above were included in the analysis.
+•	Additionally, 1599 records with future termination dates were excluded. The analysis focused solely on employees with termination dates on or before today's date.
